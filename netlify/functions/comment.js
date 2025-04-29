@@ -39,7 +39,7 @@ const app = Waline({
 		该邮件为系统自动发送的邮件，请勿直接回复。
 	  </div>
 	  <br/>
-    </div>`
+    </div>`,
   async postSave(comment) {
     // do what ever you want after save comment
   },
